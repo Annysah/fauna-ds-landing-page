@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fauna-ds-landing-page/static/css/main.a8f4f0c5.css",
-    "main.js": "/fauna-ds-landing-page/static/js/main.6427e372.js",
+    "main.css": "/fauna-ds-landing-page/static/css/main.6c13da14.css",
+    "main.js": "/fauna-ds-landing-page/static/js/main.28e846a8.js",
     "static/media/logo.png": "/fauna-ds-landing-page/static/media/logo.c8cb4906cbc3e2b69ce2.png",
     "index.html": "/fauna-ds-landing-page/index.html",
-    "main.a8f4f0c5.css.map": "/fauna-ds-landing-page/static/css/main.a8f4f0c5.css.map",
-    "main.6427e372.js.map": "/fauna-ds-landing-page/static/js/main.6427e372.js.map"
+    "main.6c13da14.css.map": "/fauna-ds-landing-page/static/css/main.6c13da14.css.map",
+    "main.28e846a8.js.map": "/fauna-ds-landing-page/static/js/main.28e846a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8f4f0c5.css",
-    "static/js/main.6427e372.js"
+    "static/css/main.6c13da14.css",
+    "static/js/main.28e846a8.js"
   ]
 }
