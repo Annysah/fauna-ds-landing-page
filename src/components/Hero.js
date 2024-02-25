@@ -7,7 +7,7 @@ function App() {
       <div class="absolute inset-0 -z-10 h-full w-full bg-white bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_bottom,#8080800a_1px,transparent_1px)] bg-[size:24px_24px]">
         <div class="absolute left-0 right-0 top-0 -z-10 m-auto h-[300px] w-[300px] rounded-full bg-purple-400 opacity-20 blur-[100px]"></div>
       </div>
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 min-h-screen">
         <header className="flex justify-between items-center">
           <img src={logo} width="200" height="200" alt="" />
           <button className="bg-black text-white font-medium p-4 w-60 rounded-full shadow-xl">
@@ -19,10 +19,10 @@ function App() {
 
         <section>
           <div className="text-center">
-            <h1 className="text-6xl font-bold mt-8 mb-5">
+            <h1 className="text-6xl font-bold mt-8 mb-8">
               Simplify Your Design Process <br /> with Our Intuitive System
             </h1>
-            <p className="text-xl mb-8">
+            <p className="text-xl mb-12">
               Spend less time on tedious tasks and more time on innovation.
             </p>
           </div>
@@ -70,7 +70,7 @@ function App() {
           </div>
         </section>
 
-        <footer className="text-center py-12">
+        <footer className="text-center sticky top-[100vh]">
           <p className="text-sm">&copy; 2024 Fauna Design System</p>
         </footer>
       </div>
