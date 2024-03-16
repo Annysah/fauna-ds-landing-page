@@ -49,7 +49,7 @@ function App() {
                 used
               </p>
               <p className="text-green-800 font-bold">
-                <a href="https://main--65d0e39cdd1f9d1d0b431f38.chromatic.com/?path=/docs/style-guide-colors--docs">
+                <a href="https://annysah.github.io/fauna-ds-demo/">
                   Explore{" "}
                   <i className="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
