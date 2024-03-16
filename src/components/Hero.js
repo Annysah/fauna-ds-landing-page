@@ -49,7 +49,7 @@ function App() {
                 used
               </p>
               <p className="text-green-800 font-bold">
-                <a href="https://annysah.github.io/fauna-ds-demo/">
+                <a href="https://fauna-ds-demo-app.vercel.app/">
                   Explore{" "}
                   <i className="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
