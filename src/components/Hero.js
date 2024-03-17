@@ -36,7 +36,7 @@ function App() {
                 Learn how to get started with Fauna Design System components
               </p>
               <p className="text-yellow-800 font-bold">
-                <a href="https://main--65d0e39cdd1f9d1d0b431f38.chromatic.com/?path=/docs/style-guide-colors--docs">
+                <a href="https://main--65f62871634bc386be2e826c.chromatic.com">
                   Explore{" "}
                   <i className="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
