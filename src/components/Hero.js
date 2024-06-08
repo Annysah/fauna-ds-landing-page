@@ -61,7 +61,7 @@ function App() {
                 View the technical article on Fauna Design System
               </p>
               <p className="text-red-800 font-bold">
-                <a href="https://dev.to/annysah/fauna-design-system-3epe-temp-slug-4183767?preview=ba089fe3b841467f10f5208eb20a60a46bf2218884279a229db00c95e4cb9ae8741ce8c998f09f4b053e980a76ea7a5574665488dfba9960be2554b6">
+                <a href="https://annysah.hashnode.dev/building-fauna-design-system-the-process">
                   Explore{" "}
                   <i className="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
